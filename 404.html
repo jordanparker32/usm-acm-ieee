@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Error 404</title>
+    
+    <style>
+    
+    .container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(4, minmax(250px, 1fr));
+    grid-template-rows: repeat(4, minmax(250px, 1fr));
+    align-content: center;
+}
+
+.grid-item {
+    margin: 1em;
+    padding: 1em;
+    border: 0.25em;
+    border-style: solid;
+    border-radius: 0.5em;
+    border-color: white;
+    color: white;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.floating {  
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+@keyframes floating {
+    from { transform: translate(0,  0px); }
+    65%  { transform: translate(0, 30px); }
+    to   { transform: translate(0, -0px); }    
+}
+
+.bkg-animated {
+    background: darkslategray url(./darkness.png) repeat 0 0;
+    width: 1fr;
+    margin: 0;
+    text-align: center;
+    height: 1fr;
+    padding-top: 120px;
+    box-sizing: border-box;
+    -webkit-animation: slide 20s linear infinite;
+}
+
+/*
+========================================================
+ darkness.png
+ This pattern is downloaded from www.subtlepatterns.com 
+ If you need more, that's where to get'em.
+========================================================
+*/
+
+/* .bkg-animated {
+    width: 1fr;
+    height: 1fr;
+    background: darkslategray url(./StarfieldSimulation.gif) no-repeat;
+    background-size: cover;
+} */
+
+/* .bkg-animated {
+    font-family: sans-serif;
+} */
+
+@-webkit-keyframes slide {
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: -400px 0;
+    }
+}
+
+/* .bkg-animated2 {
+    background: darkslategray url(./darkness.png) repeat 0 0;
+    width: 1fr;
+    margin: 0;
+    text-align: center;
+    height: 1fr;
+    padding-top: 120px;
+    box-sizing: border-box;
+    -webkit-animation: slide 20s linear infinite;
+}
+
+
+@-webkit-keyframes slide {
+    from {
+        background-position: 0 0;
+    }
+
+    to {
+        background-position: 400px 0;
+    }
+} */
+    
+    </style>
+</head>
+
+<body>
+        <div class="bkg-animated">
+            <div class="container floating">
+                <div class="grid-item" style="grid-area: 1 / 2 / span 1 / span 2; font-size: 2em; text-align: center">
+                    <p>
+                        Oof, that's a 404
+                    </p>
+                </div>
+                <div class="grid-item" style="grid-area: 2 / 2 / span 2 / span 2; font-size: 4em; text-align: center">
+                    <p>¯\_(ツ)_/¯</p>
+                </div>
+
+            </div>
+        </div>
+</body>
+
+</html>
