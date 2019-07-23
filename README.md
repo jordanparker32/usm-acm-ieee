@@ -7,4 +7,4 @@ currently taught in class. Topics covered in the past have been: General Web Dev
 Game Development.
 
 
-Please email the President at [jordan.d.parker@usm.edu](jordan.d.parker@usm.edu) for more information and a link to our discord!
+Please email the President at jordan.d.parker@usm.edu for more information and a link to our discord!
