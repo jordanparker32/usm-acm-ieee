@@ -8,16 +8,3 @@ Game Development.
 
 
 Please email the President at [jordan.d.parker@usm.edu](jordan.d.parker@usm.edu) for more information and a link to our discord!
-
-
-Current Officers:
-| Name          | Office        |
-| :------------ |:------------- |
-| Jordan Parker | President|
-| Brandon Revels| Vice-President|
-| Jonathon Evans| Treasurer|
-| Rush Line     | ACM Secretary|
-| Zack Pulver   | IEEE Secretary|
-| Ashley Funkhouser | Web Master|
-| Colby Peyton  | Game Master |
-| Luc Lagarde | Hardware Master|
