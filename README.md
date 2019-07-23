@@ -3,5 +3,21 @@
 USM ACM-IEEE is the combination of two separate organizations, under one roof. We acted as two separate entities for years before 
 realizing that our goals were the exact same, to benefit student and build outstanding contacts around them. So in 2019 we decided to 
 combine our efforts for the betterment of the Students! We host tutorials every week. Topics range in variety but they are topics not 
-currently taught in class. Topics covered in the past have been: Ruby on Rails, Javascript, ICPC Prep, Pentesting, and Unity Game 
-Development.
+currently taught in class. Topics covered in the past have been: General Web Development, Javascript, ICPC Prep, Pentesting, and Unity 
+Game Development.
+
+
+Please email the President at [jordan.d.parker@usm.edu](jordan.d.parker@usm.edu) for more information and a link to our discord!
+
+
+Current Officers:
+| Name          | Office        |
+| :------------ |:------------- |
+| Jordan Parker | President|
+| Brandon Revels| Vice-President|
+| Jonathon Evans| Treasurer|
+| Rush Line     | ACM Secretary|
+| Zack Pulver   | IEEE Secretary|
+| Ashley Funkhouser | Web Master|
+| Colby Peyton  | Game Master |
+| Luc Lagarde | Hardware Master|
